@@ -19,7 +19,7 @@ If you have any feedback or suggestions for improvements, please feel free to op
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the  file for details.
 You can copy and paste this code into a Markdown file and modify the text as needed.
 
 
